@@ -1,0 +1,11 @@
+Order ID,Customer Name,Amount,Order Date,City
+1001,Asha,250.50,2026-10-01,Pune
+1002,Rahul,1200,01/10/2026,Mumbai
+1003,Meera,450.75,2026-10-03,Nashik
+1003,Meera,450.75,2026-10-03,Nashik
+,Kiran,300,2026-10-04,Pune
+1005,,800,05/10/2026,Nagpur
+1006,Sana,,2026-10-06,
+1007,Vivek,25,2026-10-07,Mumbai
+1008,Ira,999.99,07-10-2026,Pune
+1009,Dev,175,2026-10-09,Nashik
